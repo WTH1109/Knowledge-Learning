@@ -1,1 +1,6 @@
-"# Knowledge-Learning" 
+# 知识学习
+
+该仓库用于TAOHAN WENG关于深度学习以及统计学的自我学习
+
+欢迎大家交流讨论
+
