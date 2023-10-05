@@ -6,13 +6,9 @@
 
 **贡献：**将深度卷积网络应用到GAN中
 
-
-
-
-
 ## Pix2Pix
 
-<img src="https://wth-markdown-image.oss-cn-beijing.aliyuncs.com/markdown_img/image-20230602190217731.png" alt="image-20230602190217731" style="zoom: 40%;" />
+<img src="./image/GAN/image-20231002171518079.png" alt="image-20231002171518079" style="zoom: 25%;" />
 
 **年份：**2018
 
@@ -45,11 +41,11 @@ $$
 
 **效果图：**
 
-<img src="https://wth-markdown-image.oss-cn-beijing.aliyuncs.com/markdown_img/image-20230602193219294.png" alt="image-20230602193219294" style="zoom: 33%;" />
+![image-20231002171812048](./image/GAN/image-20231002171812048.png)
 
 ## CycleGAN
 
-<img src="https://wth-markdown-image.oss-cn-beijing.aliyuncs.com/markdown_img/image-20230602191441178.png" alt="image-20230602191441178" style="zoom: 60%;" />
+![image-20231002172219424](./image/GAN/image-20231002172219424.png)
 
 **年份：**2020
 
@@ -83,15 +79,13 @@ $$
 
 **效果图：**
 
-<img src="https://wth-markdown-image.oss-cn-beijing.aliyuncs.com/markdown_img/image-20230602193114112.png" alt="image-20230602193114112" style="zoom: 33%;" />
-
-
+![image-20231002172457114](./image/GAN/image-20231002172457114.png)
 
 ## Style GAN
 
 **贡献：**提出了一种生成器结构
 
-<img src="https://wth-markdown-image.oss-cn-beijing.aliyuncs.com/markdown_img/image-20230602203247353.png" alt="image-20230602203247353" style="zoom: 50%;" />
+<img src="./image/GAN/image-20231002172625273.png" alt="image-20231002172625273" style="zoom:33%;" />
 
 **结构：**$z$通过非线性变换映射到$w$，$w$构成对于生成网络中间层的仿射变换，同时在生成网络的每一层添加噪声
 
