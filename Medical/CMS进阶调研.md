@@ -1,0 +1,8 @@
+# CMS进阶调研
+
+| 论文名                                                       | 链接                                                         |         任务          |      |                             方法                             |      | 下游任务 | 数据集 | 数据描述 | 时间 | 发表 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | :-------------------: | :--: | :----------------------------------------------------------: | :--: | :------: | :----: | -------- | :--: | :--: |
+| CMOS-GAN: Semi-Supervised Generative Adversarial Model for Cross-Modality Face Image Synthesis | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9975261 |    跨膜态人脸合成     |      | GAN+对比学习（真实图像与源模态和目标模态均通过生成器后进行对比学习） |      |    无    |   略   | 略       | 2023 | TMI  |
+| Multi-Modality MR Image Synthesis via Confidence-Guided Aggregation and Cross-Modality Refinement | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439166 | MRI（T1+T2生成Flair） |      |             GAN,网络自己生成注意力map，感觉很low             |      |    无    | BraTs  | 略       | 2022 | TMI  |
+|                                                              |                                                              |                       |      |                                                              |      |          |        |          |      |      |
+|                                                              |                                                              |                       |      |                                                              |      |          |        |          |      |      |
