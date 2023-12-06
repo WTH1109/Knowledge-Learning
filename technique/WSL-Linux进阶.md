@@ -185,7 +185,7 @@ pyenv install 3.9.0
 - pyenv-virtualenv下载
 
   ```bash
-  $ git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+  git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
   ```
 
 - 在命令行中添加环境变量
@@ -215,7 +215,7 @@ eval "$(pyenv init -)"
 
 ```bash
 # 创建虚拟环境
-pyenv virtual 3.6.9 project 
+pyenv virtualenv 3.6.9 project 
 # 激活虚拟环境
 pyenv activate name 
 # 退出虚拟环境
